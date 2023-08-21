@@ -23,7 +23,7 @@ section {
 }
 
 h1, h2 {
-    color: #67c5e9; /* '90s inspired light green */
+    color: #67c5e9;
 }
 
 .bg-dark {
@@ -54,7 +54,7 @@ footer {
 }
 
 .container {
-    max-width: 1200px; /* Adjust this to whatever width is visually appealing */
+    max-width: 1200px;
 }
 
 .separator {

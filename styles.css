@@ -56,3 +56,7 @@ footer {
 .container {
     max-width: 1200px; /* Adjust this to whatever width is visually appealing */
 }
+
+.separator {
+    border-color: #ffeda1;
+}

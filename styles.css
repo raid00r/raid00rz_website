@@ -9,7 +9,7 @@ body {
 }
 
 .navbar-dark .navbar-brand, .navbar-dark .navbar-nav .nav-link {
-    color: #ecf0f1;
+    color: #67c5e9;
 }
 
 .logo {
@@ -23,16 +23,16 @@ section {
 }
 
 h1, h2 {
-    color: #fcedaa; /* '90s inspired light green */
+    color: #67c5e9; /* '90s inspired light green */
 }
 
 .bg-dark {
-    background-color: #242424 !important;
+    background-color: #ffffff !important;
 }
 
 footer {
-    background-color: #2c3e50;
-    color: #ecf0f1;
+    background-color: #ffffff;
+    color: #67c5e9;
 }
 
 .row > .col-md-5.offset-md-1 {

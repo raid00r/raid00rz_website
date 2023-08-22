@@ -27,6 +27,10 @@ h1, h2 {
     font-family: 'Jura', sans-serif;
 }
 
+.jura {
+    font-family: 'Jura', sans-serif;
+}
+
 .bg-dark {
     background-color: #333333 !important;
 }
@@ -34,6 +38,7 @@ h1, h2 {
 footer {
     background-color: #ffffff;
     color: #67c5e9;
+    font-family: 'Jura', sans-serif;
 }
 
 .row > .col-md-5.offset-md-1 {

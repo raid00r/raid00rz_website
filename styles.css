@@ -24,6 +24,7 @@ section {
 
 h1, h2 {
     color: #67c5e9;
+    font-weight: bold;
 }
 
 .bg-dark {
@@ -62,5 +63,5 @@ footer {
 }
 
 h1 {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Jura';
 }

@@ -24,6 +24,7 @@ section {
 
 h1, h2 {
     color: #67c5e9;
+    font-family: 'Jura';
     font-weight: bold;
 }
 
@@ -60,8 +61,4 @@ footer {
 
 .separator {
     border-color: #ffeda1;
-}
-
-h1 {
-    font-family: 'Jura';
 }
